@@ -1,0 +1,51 @@
+.heading-8 {
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    white-space: normal;
+    -o-object-fit: fill;
+    object-fit: fill;
+    margin-bottom: 57px;
+    font-family: 'Axolittle font', sans-serif; 
+    color: #4bb0ff;
+    text-align: center;
+    margin-top: 16px;
+    font-size: 72px;
+    line-height: 80px;
+    font-weight: 500;
+}
+
+.sm-align-centre{
+    text-align: center;
+}
+
+
+.w-button {
+    display: inline-block;
+    padding: 9px 15px;
+    background-color: #3898EC;
+    color: white;
+    border: 0;
+    line-height: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 0;
+}
+
+input.w-button {
+    -webkit-appearance: button;
+}
+
+.submit-button {
+    width: auto;
+    padding: 19px 90px 9px;
+    border-radius: 5px;
+    background-color: #4ab1ff;
+    font-family: 'Axolittle font', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+a.submit-button:hover{
+    color: #fff;
+}
+
