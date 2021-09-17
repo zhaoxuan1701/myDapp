@@ -20,7 +20,7 @@ class  ScrollTo extends React.Component<any, any> {
     super(props);
     this.state = {
       appStyle: {
-        position: 'absolute',
+        transform: 'translate3d(0px, 0px, 0px)',
       },
       currentTop: 0,
     };
@@ -41,7 +41,6 @@ class  ScrollTo extends React.Component<any, any> {
      if(oldScrollTop < scrollTop){
         this.setState({
           appStyle: {
-            position: 'absolute',
             backgroundColor: "transparent",
             transform: 'translate3d(0px, -100px, 0px)',
           }
@@ -54,9 +53,8 @@ class  ScrollTo extends React.Component<any, any> {
       this.setState({
         
         appStyle: {
-          position: 'fixed',
           backgroundColor: bgColor,
-          transform: 'translate3d(0px, -100px, 0px)',
+          transform: 'translate3d(0px, 0px, 0px)',
         }
       })
 
