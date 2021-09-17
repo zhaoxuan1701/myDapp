@@ -56,7 +56,7 @@ class  ScrollTo extends React.Component<any, any> {
         appStyle: {
           position: 'fixed',
           backgroundColor: bgColor,
-          transform: 'translate3d(0px, 0px, 0px)',
+          transform: 'translate3d(0px, -100px, 0px)',
         }
       })
 
