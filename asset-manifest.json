@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/myDapp/static/css/main.150c123e.chunk.css",
-    "main.js": "/myDapp/static/js/main.a9458570.chunk.js",
-    "main.js.map": "/myDapp/static/js/main.a9458570.chunk.js.map",
-    "runtime-main.js": "/myDapp/static/js/runtime-main.fe3ffc3e.js",
-    "runtime-main.js.map": "/myDapp/static/js/runtime-main.fe3ffc3e.js.map",
-    "static/css/2.53150396.chunk.css": "/myDapp/static/css/2.53150396.chunk.css",
-    "static/js/2.75159074.chunk.js": "/myDapp/static/js/2.75159074.chunk.js",
-    "static/js/2.75159074.chunk.js.map": "/myDapp/static/js/2.75159074.chunk.js.map",
-    "index.html": "/myDapp/index.html",
-    "static/css/2.53150396.chunk.css.map": "/myDapp/static/css/2.53150396.chunk.css.map",
-    "static/css/main.150c123e.chunk.css.map": "/myDapp/static/css/main.150c123e.chunk.css.map",
-    "static/js/2.75159074.chunk.js.LICENSE.txt": "/myDapp/static/js/2.75159074.chunk.js.LICENSE.txt",
-    "static/media/ROADMAP.png": "/myDapp/static/media/ROADMAP.536b3722.png",
-    "static/media/layer-3.png": "/myDapp/static/media/layer-3.a5cc9043.png",
-    "static/media/layer-3.webp": "/myDapp/static/media/layer-3.ca29e6ab.webp",
-    "static/media/layer-4.webp": "/myDapp/static/media/layer-4.bdd61428.webp",
-    "static/media/questionmark2.png": "/myDapp/static/media/questionmark2.ea8f0ac5.png"
+    "main.css": "/static/css/main.150c123e.chunk.css",
+    "main.js": "/static/js/main.971ace11.chunk.js",
+    "main.js.map": "/static/js/main.971ace11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.196c58af.js",
+    "runtime-main.js.map": "/static/js/runtime-main.196c58af.js.map",
+    "static/css/2.53150396.chunk.css": "/static/css/2.53150396.chunk.css",
+    "static/js/2.75159074.chunk.js": "/static/js/2.75159074.chunk.js",
+    "static/js/2.75159074.chunk.js.map": "/static/js/2.75159074.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.53150396.chunk.css.map": "/static/css/2.53150396.chunk.css.map",
+    "static/css/main.150c123e.chunk.css.map": "/static/css/main.150c123e.chunk.css.map",
+    "static/js/2.75159074.chunk.js.LICENSE.txt": "/static/js/2.75159074.chunk.js.LICENSE.txt",
+    "static/media/ROADMAP.png": "/static/media/ROADMAP.536b3722.png",
+    "static/media/layer-3.png": "/static/media/layer-3.a5cc9043.png",
+    "static/media/layer-3.webp": "/static/media/layer-3.ca29e6ab.webp",
+    "static/media/layer-4.webp": "/static/media/layer-4.bdd61428.webp",
+    "static/media/questionmark2.png": "/static/media/questionmark2.ea8f0ac5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe3ffc3e.js",
+    "static/js/runtime-main.196c58af.js",
     "static/css/2.53150396.chunk.css",
     "static/js/2.75159074.chunk.js",
     "static/css/main.150c123e.chunk.css",
-    "static/js/main.a9458570.chunk.js"
+    "static/js/main.971ace11.chunk.js"
   ]
 }
