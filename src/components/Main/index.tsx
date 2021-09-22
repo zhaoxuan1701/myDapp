@@ -71,10 +71,10 @@ class  ScrollTo extends React.Component<any, any> {
             <Row className="justify-content-md-center">
               <Col xs={12} md={8}>
                 <div className="nav">
-                  <a href="/index#MINT">MINT</a>  
-                  <a href="/index#ABOUT">ABOUT</a> 
-                  <a href="/index#ROADMAP">ROADMAP</a>  
-                  <a href="/index#FAQ">FAQ</a> 
+                  <a href="/#MINT">MINT</a>  
+                  <a href="/#ABOUT">ABOUT</a> 
+                  <a href="/#ROADMAP">ROADMAP</a>  
+                  <a href="/#FAQ">FAQ</a> 
                   {/* <a href="/#TEAM">TEAM</a> */}
                   <a href="/#TEAM">
                     <img src={require('../../static/img/opensealogo.png').default} alt="" width='30' height="30"/>
