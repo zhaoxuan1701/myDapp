@@ -47,15 +47,6 @@ const Test = (props: any) => {
                         <span className="projectDetail-np">&nbsp;NXGEN&nbsp;</span>
                         <span className="projectDetail-npn">&nbsp;NXGEN&nbsp;</span>
                         <span className="projectDetail-np">&nbsp;NXGEN&nbsp;</span>
-                        {/* <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span> */}
                     </div>
                     <div className="projectDetail-next-2"
                     style={boxStyle}>
@@ -73,29 +64,7 @@ const Test = (props: any) => {
                         <span className="projectDetail-np">&nbsp;NXGEN&nbsp;</span>
                         <span className="projectDetail-npn">&nbsp;NXGEN&nbsp;</span>
                         <span className="projectDetail-np">&nbsp;NXGEN&nbsp;</span>
-                        {/* <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span> */}
                     </div>
-                    {/* <div className="projectDetail-next-2"
-                    style={boxStyle}>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                        <span className="projectDetail-np">&nbsp;next project&nbsp;</span>
-                        <span className="projectDetail-npn">Bugatti</span>
-                    </div> */}
                 </div>
             </div>
         </div>
