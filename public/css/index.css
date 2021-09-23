@@ -27,4 +27,17 @@
     font-display: swap;
   }
 
-  
+  @font-face {
+    font-family: 'HelveticaNeueLTPro-HvEx';
+    src: url('../fonts/381212_0_0.eot');
+    src: url('../fonts/381212_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/381212_0_0.woff2') format('woff2'),url('../fonts/381212_0_0.woff') format('woff'),url('../fonts/381212_0_0.ttf') format('truetype');
+  }
+
+
+  @font-face {
+    font-family:SuisseIntl-Book;
+    font-display:block;
+    src:url(../fonts/SuisseIntl-Book-WebM.woff2) format("woff2"), url(../fonts/SuisseIntl-Book-WebM.woff) format("woff");
+    font-weight:400;
+    font-style:normal
+}

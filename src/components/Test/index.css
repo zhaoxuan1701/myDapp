@@ -1,0 +1,105 @@
+.test{
+    min-height: 60vh;
+    padding: 5vw 0;
+}
+
+.projectDetail-next-outer {
+    white-space:nowrap;
+    width:100vw;
+    /* height:150px; */
+    text-align:center;
+    font-size:50px;
+    color:transparent;
+    cursor:pointer;
+    overflow:hidden;
+    /* height: 120px; */
+}
+
+.projectDetail-np {
+    font-family:HelveticaNeueLTPro-HvEx, Arial, sans-serif;
+    color:#000;
+    font-size:140px;
+    line-height:50px;
+    font-size:50px;
+    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-color:#000;
+    color:transparent
+}
+
+.projectDetail-next:hover .projectDetail-np {
+    -webkit-text-stroke-width:0;
+    -webkit-text-stroke-color:#cc2626;
+    color:#cc2626
+}
+.projectDetail-next:hover .projectDetail-npn {
+    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-color:#cc2626;
+    color:transparent
+}
+
+.projectDetail-next:hover .projectDetail-np {
+    -webkit-text-stroke-width:0;
+    -webkit-text-stroke-color:#cc2626;
+    color:#cc2626
+}
+.projectDetail-next:hover .projectDetail-npn {
+    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-color:#cc2626;
+    color:transparent
+}
+.projectDetail-next-1, .projectDetail-next-2 {
+    display:inline-block
+}
+.projectDetail-np {
+    font-family:HelveticaNeueLTPro-HvEx, Arial, sans-serif;
+    color:#000;
+    /* line-height:62px; */
+    font-size:32px;
+    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-color:#000;
+    color:transparent
+}
+@media screen and (max-width:1200px) {
+    .projectDetail-np {
+        font-size:40px
+    }
+}
+@media screen and (max-width:767px) {
+    .projectDetail-np {
+        font-size:30px
+    }
+}
+@media screen and (max-width:375px) {
+    .projectDetail-np {
+        font-size:20px
+    }
+}
+.projectDetail-npn {
+    text-transform:uppercase;
+    font-family:SuisseIntl-Book, Arial, serif;
+    font-style:normal;
+    font-weight:500;
+    color:#cc2626;
+    font-size:32px;
+    color:#000
+}
+@media screen and (max-width:1200px) {
+    .projectDetail-npn {
+        font-size:40px
+    }
+}
+@media screen and (max-width:767px) {
+    .projectDetail-npn {
+        font-size:30px
+    }
+}
+@media screen and (max-width:375px) {
+    .projectDetail-npn {
+        font-size:20px
+    }
+}
+
+.projectDetail-next{
+    border-top: 3px solid #000;
+    border-bottom: 3px solid #000;
+}
